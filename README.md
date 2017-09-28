@@ -26,6 +26,8 @@ The bootstrap.sh will:
 
 * activate mod_rewrite and add *AllowOverride All* to the vhost settings
 
+* change apache2 user and group to: 'vagrant' 
+
 You can folder and password inside the bootstrap.sh for sure.
 
 ### How to use ?
